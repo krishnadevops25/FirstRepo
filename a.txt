@@ -2,4 +2,9 @@ First line..
 Second line...
 Third Line....
 fourth line
+<<<<<<< HEAD
 fifth line
+=======
+
+sixth line
+>>>>>>> branch1
